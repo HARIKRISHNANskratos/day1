@@ -1,0 +1,41 @@
+
+body{
+    
+    background-repeat: no-repeat;
+     background-position: right top;
+ background-attachment: fixed;
+    text-align: center;
+    background-image:url("kurama.jpg");
+    background-size:cover;
+}
+#heading{
+    padding: 20px;
+}
+.main{
+    image-rendering: crisp-edges ;
+    
+}
+mark{
+   background-color: aliceblue;
+   margin: 0px 100px 0px 100px;
+}
+img{
+    height: 250px;
+    width: 200px;
+    border: 5px solid wheat;
+     border-radius: 30%;
+     border-radius: 20%;
+    margin-top:70px;
+    margin-left:20px;
+}
+.naruto{
+    background-color: rgb(251, 251, 251);
+    margin: 0px 100px 0px 100px;
+    border-radius: 25px;
+}
+.first img{
+    padding: 45px;
+}
+.second img{
+    padding: 45px;
+}
